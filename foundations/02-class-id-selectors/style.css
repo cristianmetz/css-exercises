@@ -1,5 +1,5 @@
 .odd {
-  background-color: rgb(216, 191, 201);
+  background-color: #eeb9ce;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -8,12 +8,12 @@
   font-size: 36px;
 }
 
-#third {
+#third,
+#fourth {
   font-size: 24px;
 }
 
 #fourth {
   background-color: rgba(128, 255, 0, 0.884);
-  font-size: 24px;
   font-weight: bold;
 }
